@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">acasoSeTeOlvido</string>
+    <string name="textIngreso">INGRESO</string>
+    <string name="textUsuario">Usuario</string>
+    <string name="textCorreo">Correo</string>
+    <string name="textContrasenia">Contraseña</string>
+    <string name="textConfirmarContrasenia">Confirmar Contraseña</string>
+    <string name="botonAceptar">Aceptar</string>
+    <string name="botonCancelar">Cancelar</string>
+</resources>
